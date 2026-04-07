@@ -105,7 +105,7 @@ git push origin blessings-chinyama
 
 ### 8. Done!
 
-Your Pull Request is your submission. Mr. Spratt or Mr. Chama will review it. You may receive comments — check back and respond if needed.
+Your Pull Request is your submission. Mr. Spratt or Ms. Chama will review it. You may receive comments — check back and respond if needed.
 
 ---
 

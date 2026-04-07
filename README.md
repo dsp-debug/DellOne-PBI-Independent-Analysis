@@ -37,7 +37,9 @@ Place the following files inside your named folder:
 |------|-------------|
 | `README.md` | Brief description of your topic, data source(s), and key insights |
 | `*.pbix` | Your completed Power BI report |
-| `Summary.pdf` | A PDF file summarizing your findings |
+| `CoverLetter.pdf` | A professionally written cover letter presenting your project, its relevance, and what you sought to uncover from the data — written as you would compose a formal submission email to Ms. Chama, Mr. Spratt, and Dr. Shale |
+
+> ⚠️ **Strict Attention to Detail (ATD) is mandatory.** Your cover letter, file naming, folder structure, commit messages, and PR formatting will all be scrutinized. Sloppy work will not be accepted.
 
 ## Folder Structure
 
@@ -48,11 +50,11 @@ DellOne-PBI-Independent-Analysis/
 ├── Blessings_Chinyama/
 │   ├── README.md
 │   ├── Analysis.pbix
-│   └── Summary.pdf
+│   └── CoverLetter.pdf
 ├── Boldwin_Mweemba/
 │   ├── README.md
 │   ├── Analysis.pbix
-│   └── Summary.pdf
+│   └── CoverLetter.pdf
 └── ... (one folder per AIT)
 ```
 

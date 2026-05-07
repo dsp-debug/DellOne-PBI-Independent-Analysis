@@ -2,7 +2,7 @@ An analysis of GDP values for five Southern African Development Community (SADC 
 
 
 
-This analysis highlights the structure of GDP across different economic sectors, and to determine whether there are any dependencies on any sector and/or activity.
+This analysis highlights the structure of GDP across different economic sectors, trend analyses of GDP growth rates across countries and sectors, and examination of any dependencies on any sector and/or activity.
 
 The data was collected from the official SADC website, and shows a need for Zambia's economic diversification when compared to other countries.
 

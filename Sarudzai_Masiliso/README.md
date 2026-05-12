@@ -1,0 +1,5 @@
+My topic focused on the 2012 veteran compensation and pension funds in the USA, specifically looking at trends in regions, gender age groups and severity of disability. 
+My data was sourced from the US Department of Veterans Affairs and was an excel file containing data on veteran compensation and pension funds in the USA in 2012. https://catalog.data.gov/dataset/compensation-and-pension-by-county-2012 
+My key findings were that there was a significant variation in the total recipients of compensation and pension across the USA in 2012, The region with the highest number of total recipients was the West while the lowest was the East. 
+The data also showed that there was a significant variation in the gender imbalance across the USA in 2012, with males being the majority of recipients. 
+Recipients are spread across mild, substantial, severe, and total disability categories. The South region and West region show higher totals in severe categories. 
